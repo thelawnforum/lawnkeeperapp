@@ -1,4 +1,4 @@
-FROM elixir:1.12.1
+FROM elixir:1.14.2
 SHELL ["/bin/bash", "-c"]
 
 # nvm environment variables
